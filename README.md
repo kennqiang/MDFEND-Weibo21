@@ -4,7 +4,9 @@ This is an official implementation for **MDFEND: Multi-domain Fake News Detectio
 You can download the dataset **Weibo21** proposed in this paper only after an "Application to Use Weibo21 for Fake News Detection" has been submitted. 
 ## Code
 ### Requirements
-refer to requirement.txt
+Refer to requirements.txt
+
+You can run `pip install -r requirements.txt` to deploy the environment quickly.
 ### pretrained_model 
 You can download pretrained model (Roberta) from https://drive.google.com/drive/folders/1y2k22iMG1i1f302NLf-bj7UEe9zwTwLR?usp=sharing and move all the files in the folder into the path `MDFEND-Weibo21/pretrained_model/chinese_roberta_wwm_base_ext_pytorch`.
 ### Data Preparation
