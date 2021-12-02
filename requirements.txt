@@ -1,0 +1,91 @@
+accelerate==0.5.1
+aiohttp==3.8.0
+aiosignal==1.2.0
+async-timeout==4.0.0
+asynctest==0.13.0
+attrs==21.2.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+blessings==1.7
+certifi==2021.5.30
+chardet==4.0.0
+charset-normalizer==2.0.7
+click==7.1.2
+cycler==0.10.0
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+datasets==1.15.1
+decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
+dill==0.3.4
+fasttext==0.9.2
+filelock==3.0.12
+frozenlist==1.2.0
+fsspec==2021.11.0
+gensim==4.0.1
+gpustat==0.6.0
+huggingface-hub==0.1.1
+idna==2.10
+idna-ssl==1.1.0
+importlib-metadata==3.7.3
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi==0.17.0
+jieba==0.42.1
+joblib==1.0.1
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1612213308682/work
+kiwisolver==1.3.1
+matplotlib==3.3.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multidict==5.2.0
+multiprocess==0.70.12.2
+nltk==3.6.5
+numpy==1.19.5
+nvidia-ml-py3==7.352.0
+olefile==0.46
+packaging==20.9
+pandas==1.1.5
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.3.2
+prettytable==2.1.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
+protobuf==3.19.1
+psutil==5.8.0
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyarrow==6.0.0
+pybind11==2.8.0
+Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+pyparsing==2.4.7
+python-dateutil==2.8.2
+pytz==2021.1
+PyYAML==6.0
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1628268400816/work
+regex==2021.10.23
+requests==2.25.1
+sacremoses==0.0.43
+scikit-learn==0.24.1
+scipy==1.5.4
+seaborn==0.11.2
+sentencepiece==0.1.96
+six==1.16.0
+smart-open==5.0.0
+synonyms==3.16.0
+threadpoolctl==2.1.0
+tokenizers==0.10.1
+torch==1.8.0
+torchaudio==0.8.0a0+a751e1d
+torchvision==0.9.0
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+tqdm==4.62.3
+traitlets==4.3.3
+transformers @ git+https://github.com/huggingface/transformers@08a5f57567d8a975d900b66658bfd3c28c9dbec5
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+urllib3==1.26.4
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+wordcloud==1.8.1
+xxhash==2.0.2
+yarl==1.7.2
+zipp==3.4.1
