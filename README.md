@@ -3,7 +3,7 @@ This is an official implementation for [**MDFEND: Multi-domain Fake News Detecti
 ## Dataset
 The splited dataset (i.e., train, val, test) are in the `MDFEND-Weibo21/data` folder.
 
-You can have access to the original dataset of Weibo21 only after an "[Application to Use Weibo21 for Fake News Detection" has been submitted](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q4mnQlURFcxUTBYOEZSWEk1SFA2Q1BRRDhaOTRQQi4u). 
+You can have access to the original dataset of Weibo21 only after an ["Application to Use Weibo21 for Fake News Detection"](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q4mnQlURFcxUTBYOEZSWEk1SFA2Q1BRRDhaOTRQQi4u) has been submitted. 
 ## Code
 ### Requirements
 Refer to requirements.txt
